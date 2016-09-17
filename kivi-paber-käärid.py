@@ -1,6 +1,6 @@
 #Arvutimängud lõputöö
 #Kivi-paber-käärid
-#Koostasid Tarmo Kullas & Tarvo Mäesepp
+#Tarvo Mäaesepp 2016
 
 import pygame, random, time, sys
 
